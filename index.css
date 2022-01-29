@@ -1,0 +1,18 @@
+.title1 {
+    color: white;
+    background-color: green;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+div {
+    text-align: center; 
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16pt;
+    color: purple;
+    background-color:thistle;
+    font-weight: bold;
+}
