@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;
+    color:rgb(248, 247, 236);
+    background-color: rgb(68, 148, 2);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+div {
+    text-align: center;
+}
+
+h3 {
+    color: rgb(68, 148, 2);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+.des,
+.list,
+.steps,
+.notes {
+    font-family: Courier, monospace;
+}
+
+.back {
+    font-family: Courier, monospace;
+    color:rgb(255, 169, 71);
+    font-weight: bold;
+}
