@@ -3,16 +3,20 @@
     background-color: green;
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
+    margin: 40px 440px;
+    padding: 5px;
+    border: 10px double;
 }
 
 div {
     text-align: center; 
 }
 
-p {
+button {
     font-family: 'Courier New', Courier, monospace;
     font-size: 16pt;
     color: purple;
     background-color:thistle;
     font-weight: bold;
+    margin: 5px 18em;
 }
